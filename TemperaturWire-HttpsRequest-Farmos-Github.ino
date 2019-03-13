@@ -94,7 +94,7 @@ void loop() {
         Serial.println(".");
       }
      
-      http.end();
+      https.end();
 
       //delay(60000); //run once per minute
 
