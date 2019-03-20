@@ -11,6 +11,6 @@ You need following material to build a soil termometer with Nodemcu
 ## Circuit illustration
 ![Soil termometer with Nodemcu](/images/Temperature-Nodemcu.png)
 ### The soil termometer in action
-![Soil termometer with Nodemcu in action](/images/SoilTemperature-Nodemcu.jpg)
+![Soil termometer with Nodemcu in action](/images/SoilTermometer-Nodemcu.jpg)
 ### Screenshot Soil temperature in FarmOS
-![Screenshot FarmOS](/images/SoilTemperature-FarmOS.jpg)
+![Screenshot FarmOS](/images/SoilTemperature-FarmOS.png)
